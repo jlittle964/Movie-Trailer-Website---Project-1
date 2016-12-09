@@ -1,0 +1,5 @@
+Movie Trailer Website
+
+media.py is the file containing the class information.  It defines the class and what the class will do.
+entertainment_center.py is the file containing the information that is on the page and is the file that you will run. Run the code and it will open in a browser.  Make sure each piece of information is seperated by a comma or it will throw an error.
+fresh_tomatoes.html is the file that will generate the webpage.  Any style changes can be made here.
